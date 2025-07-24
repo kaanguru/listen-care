@@ -21,3 +21,10 @@ dependencyResolutionManagement {
 
 rootProject.name = "listen-care"
 include(":app")
+include(":core:audio")
+include(":core:data")
+include(":core:network")
+include(":core:ui")
+include(":features:monitoring")
+include(":features:pairing")
+include(":features:settings")

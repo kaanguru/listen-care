@@ -25,8 +25,8 @@
 ## Tasks / Subtasks
 
 - [ ] **Task 1: Create Project Structure** (AC: 1)
-  - [ ] Create a new Android Studio project with an empty Activity.
-  - [ ] Initialize a Git repository and make the initial commit.
+  - [x] Create a new Android Studio project with an empty Activity.
+  - [x] Initialize a Git repository and make the initial commit.
   - [ ] Create the modular structure as defined in the Architecture Document (`:app`, `:core:audio`, `:core:data`, `:core:network`, `:core:ui`, `:features:monitoring`, `:features:pairing`, `:features:settings`).
 - [ ] **Task 2: Configure Gradle and Dependencies** (AC: 2, 3, 4)
   - [ ] Configure the root `settings.gradle.kts` to include all the new modules.
